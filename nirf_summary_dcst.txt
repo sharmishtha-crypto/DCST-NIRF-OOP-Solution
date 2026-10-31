@@ -1,0 +1,3 @@
+NIRF Submission Data - DCST, Goa University
+DCST2648,Sharmishtha S.,STUDENT,5
+FAC01,Dr. Sadhvi Manerikar,TEACHING_STAFF,25
